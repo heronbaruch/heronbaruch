@@ -1,4 +1,4 @@
-## Oiii eu sou o Heron, estudante de programação!
+## Olá eu sou o Heron, estudante de programação!
 
 <div align="center">
   <a href="https://github.com/heronbaruch">
